@@ -1,0 +1,4 @@
+model_dir/
+model_dir/*
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
