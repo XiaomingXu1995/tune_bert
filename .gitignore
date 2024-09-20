@@ -4,3 +4,6 @@ model_dir/*
 .ipynb_checkpoints/*
 data_dir/
 data_dir/*
+__pycache__/
+__pycache__/*
+demo.ipynb
